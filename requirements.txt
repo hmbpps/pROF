@@ -1,1 +1,4 @@
-
+yfinance
+tweepy
+pandas
+pandas_ta
